@@ -7,3 +7,5 @@ git branch <branch name>
 git checkout <branch name>
 git branch
 git branch -D <branch name>
+
+git checkout -b <branch name> #creates a new branch and move to new branch 
