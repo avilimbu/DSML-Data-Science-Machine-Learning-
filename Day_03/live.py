@@ -32,3 +32,7 @@ print(round)
 minm = min(a,b,d)
 maxm= max(a,d,b)
 print(f"manimum= {minm} and maximum= {maxm}")
+
+name = 'Avhi' #single quote string
+university = "Tribhuvan University"
+print(f"{name} studies in {university}")
