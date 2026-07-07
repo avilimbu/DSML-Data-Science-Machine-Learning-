@@ -1,11 +1,7 @@
-git init 
-git add .
-git commit -m "comment"
-git push -u origin main
+# Data Science & Machine Learning (DSML)
 
-git branch <branch name>
-git checkout <branch name>
-git branch
-git branch -D <branch name>
+>>Welcome to my **Data Science & Machine Learning** learning repository.
 
-git checkout -b <branch name> #creates a new branch and move to new branch 
+```This repository documents my learning journey through the **DSML course at Skill Shikshya**. It contains notes, coding exercises, practice problems, and machine learning implementations that I complete throughout the course.```
+
+The goal of this repository is to strengthen my understanding of data science concepts, build practical machine learning skills, and track my progress over time.
