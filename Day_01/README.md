@@ -1,1 +1,0 @@
-This is a introductory day where we learn about essentials tools needed throughout the journey of DSML course.
