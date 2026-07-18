@@ -39,3 +39,7 @@ Displays the result
 If the user enters an integer, add it to a list 
 If the user enters a float number, remove the last element 
 Finally, display the updated list after each operation
+
+8. Write a function that takes a string and returns the number of vowels (a, e, i, o, u) present in it.
+
+9. Make a dictionary and save it to the file. (without and with json)
